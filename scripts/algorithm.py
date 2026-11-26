@@ -2,7 +2,7 @@ import json, time, os
 import requests
 
 MARKET_URL = "https://raw.githubusercontent.com/exofri/ensim-trade-center/refs/heads/main/docs/data/market.json"
-HOLDINGS_URL = "http://raw.githubusercontent.com/exofri/ensim-trade-center/refs/heads/main/traders/Oumayma Brahmi/holdings.json"
+HOLDINGS_URL = "http://raw.githubusercontent.com/exofri/ensim-trade-center/refs/heads/main/traders/e2606220/holdings.json"
 
 MIN_MONEY_RESERVE = 50 # never let a buy signal spend below this much money
 
