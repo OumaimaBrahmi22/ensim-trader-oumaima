@@ -1,0 +1,4 @@
+updated_at,product,price,signal,reason
+2026-11-26T15:22:12Z,A,4.8403,0.0,"price normal (z=-0.30) -> keep position"
+2026-11-26T15:22:12Z,B,12.619,-1.0,"uptrend + spike (z=1.39) -> trim to core"
+2026-11-26T15:22:12Z,C,1.1713,-1.0,"downtrend (-9.8% per wave) -> hold nothing"
