@@ -5,3 +5,6 @@ updated_at,product,price,signal,reason
 2026-11-26T23:55:27Z,A,5.1069,0.0,"price normal (z=0.26) -> keep position"
 2026-11-26T23:55:27Z,B,12.703,-1.0,"uptrend + spike (z=1.43) -> trim to core"
 2026-11-26T23:55:27Z,C,1.0977,-1.0,"downtrend (-9.8% per wave) -> hold nothing"
+2026-11-27T05:32:32Z,A,5.1529,0.0,"price normal (z=0.36) -> keep position"
+2026-11-27T05:32:32Z,B,12.497,-1.0,"uptrend + spike (z=1.13) -> trim to core"
+2026-11-27T05:32:32Z,C,1.0263,-1.0,"downtrend (-10.0% per wave) -> hold nothing"
